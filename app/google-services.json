@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163057086929",
+    "project_id": "vitspotlight-70df3",
+    "storage_bucket": "vitspotlight-70df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163057086929:android:277ae1a244fa6ec22870f0",
+        "android_client_info": {
+          "package_name": "com.smallacademy.userroles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163057086929-ncn74r01fg45ia7iut7abi450a8dngp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHslHd7rJTCmItDs34NFIdA0PS5X5sbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163057086929-ncn74r01fg45ia7iut7abi450a8dngp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
